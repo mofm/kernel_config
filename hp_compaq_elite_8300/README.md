@@ -1,2 +1,2 @@
 
-# This is only for the hardwares(~hardware) configuration files!
+# This is only for the hardwares(~/hardware) configuration files!
